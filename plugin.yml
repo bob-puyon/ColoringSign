@@ -1,0 +1,5 @@
+name: ColoringSigns
+version: 1.0
+author: bob_puyon
+description: ColoringMessage of Signs, colors for signs.
+main: bob_puyon.ColoringSign.ColoringSign
